@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>bkys blog</title><link>https://bkys.github.io</link><description>记录学习生活记忆~</description><copyright>bkys blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://bkys.github.io</link></image><lastBuildDate>Sat, 14 Dec 2024 06:18:27 +0000</lastBuildDate><managingEditor>bkys blog</managingEditor><ttl>60</ttl><webMaster>bkys blog</webMaster><item><title>手机编辑测试</title><link>https://bkys.github.io/post/shou-ji-bian-ji-ce-shi.html</link><description>![Screenshot_2024-12-13-08-03-44-718_com.taobao.taobao.jpg](https://github.com/user-attachments/assets/2e1a7c19-3ae5-4fb9-ac2a-7d35fb8ee96a)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>bkys blog</title><link>https://bkys.github.io</link><description>记录学习生活记忆~</description><copyright>bkys blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://bkys.github.io</link></image><lastBuildDate>Sat, 14 Dec 2024 09:23:15 +0000</lastBuildDate><managingEditor>bkys blog</managingEditor><ttl>60</ttl><webMaster>bkys blog</webMaster><item><title>手机编辑测试</title><link>https://bkys.github.io/post/shou-ji-bian-ji-ce-shi.html</link><description>![Screenshot_2024-12-13-08-03-44-718_com.taobao.taobao.jpg](https://github.com/user-attachments/assets/2e1a7c19-3ae5-4fb9-ac2a-7d35fb8ee96a)
 
 **淘宝88vip卡权益区别**
 ```c
@@ -22,4 +22,19 @@ void main()&#13;
 printf('hello world!/r/n');&#13;
 retrun(0);&#13;
 }&#13;
-```。</description><guid isPermaLink="true">https://bkys.github.io/post/MarkDown-yu-fa-xue-xi.html</guid><pubDate>Sat, 14 Dec 2024 03:54:40 +0000</pubDate></item><item><title>博客日志测试</title><link>https://bkys.github.io/post/bo-ke-ri-zhi-ce-shi.html</link><description>hello world！。</description><guid isPermaLink="true">https://bkys.github.io/post/bo-ke-ri-zhi-ce-shi.html</guid><pubDate>Sat, 14 Dec 2024 03:20:38 +0000</pubDate></item></channel></rss>
+```&#13;
+&#13;
+&#13;
+- [x] 🎉 通常 `Markdown` 解析器自带的基本功能；&#13;
+- [x] 🍀 支持**流程图**、**甘特图**、**时序图**、**任务列表**；&#13;
+- [x] 🏁 支持粘贴 HTML 自动转换为 Markdown；&#13;
+- [x] 💃🏻 支持插入原生 Emoji、设置常用表情列表；&#13;
+- [x] 🚑 支持编辑内容保存**本地存储**，防止意外丢失；&#13;
+- [x] 📝 支持**实时预览**，主窗口大小拖拽，字符计数；&#13;
+- [x] 🛠 支持常用快捷键(**Tab**)，及代码块添加复制&#13;
+- [x] ✨ 支持**导出**携带样式的 PDF、PNG、JPEG 等；&#13;
+- [x] ✨ 升级 Vditor，新增对 `echarts` 图表的支持；&#13;
+- [x] 👏 支持检查并格式化 Markdown 语法，使其专业；&#13;
+- [x] 🦑 支持五线谱、及部分站点、视频、音频解析；&#13;
+- [x] 🌟 增加对**所见即所得**编辑模式的支持(`⌘-⇧-M`)；&#13;
+  。</description><guid isPermaLink="true">https://bkys.github.io/post/MarkDown-yu-fa-xue-xi.html</guid><pubDate>Sat, 14 Dec 2024 03:54:40 +0000</pubDate></item><item><title>博客日志测试</title><link>https://bkys.github.io/post/bo-ke-ri-zhi-ce-shi.html</link><description>hello world！。</description><guid isPermaLink="true">https://bkys.github.io/post/bo-ke-ri-zhi-ce-shi.html</guid><pubDate>Sat, 14 Dec 2024 03:20:38 +0000</pubDate></item></channel></rss>
